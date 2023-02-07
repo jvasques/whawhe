@@ -1,0 +1,127 @@
+{
+    "places": [
+        {
+            "id" : "01",
+            "mapIframe" : "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d231.55145380226364!2d-46.55112532944774!3d-21.787100245308626!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c9dd3cceea2185%3A0x44761d342be98f30!2sPadaria%20P%C3%A3o%20Mineiro!5e0!3m2!1spt-BR!2sus!4v1675745311899!5m2!1spt-BR!2sus' width='400' height='300' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+            "category": [
+                "all",
+                "food",
+                "drink"
+            ],
+            "city": "Poços de Caldas",
+            "placeName": "Padaria Pão Mineiro",
+            "addressStreet": "Rua Coronel Virgílio Silva",
+            "addressNumber": "890",
+            "addressDistrict": "Vila Nova",
+            "officehour": "Seg-Sáb - 07:00h - 19:00h",
+            "searchTags": [
+                "pão",
+                "rosca",
+                "salgados",
+                "padaria",
+                "lanchonete",
+                "refrigerante",
+                "bolo",
+                "pão de queijo",
+                "biscoitos",
+                "broa",
+                "pau-a-pique"
+            ],
+            "highlighted": true
+        },
+        {
+            "id": "02",
+            "mapIframe" : "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3705.0508020796433!2d-46.5688962703067!3d-21.77829475797047!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c9dcfa09e2dfd1%3A0x80afcdb89c0559f!2sR.%20Assis%20Figueiredo%2C%2031%20-%20Centro%2C%20Po%C3%A7os%20de%20Caldas%20-%20MG%2C%2037701-704%2C%20Brasil!5e0!3m2!1spt-BR!2sus!4v1675745572669!5m2!1spt-BR!2sus' width='400' height='300' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+            "category": [
+                "all",
+                "food",
+                "supermarket",
+                "drink"
+            ],
+            "city": "Poços de Caldas",
+            "placeName": "Supermercado",
+            "addressStreet": "Assis Figueiredo",
+            "addressNumber": "0",
+            "addressDistrict": "Centro",
+            "officehour": "Seg-Dom - 08:00h - 22:00h",
+            "searchTags": [
+                "mercearia",
+                "hortifrut",
+                "laticínio",
+                "padaria",
+                "cesta básica",
+                "orgânico",
+                "pneu",
+                "açougue",
+                "congelados",
+                "bebidas"
+            ],
+            "highlighted": false
+        },
+        {
+            "id": "03",
+            "mapIframe" : "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d389.4246411651587!2d-46.571855054047845!3d-21.78597154688708!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c9dced0e01ae5b%3A0x95bc4575baeddb06!2sAv.%20Jo%C3%A3o%20Pinheiro%2C%209%20-%20Centro%2C%20Po%C3%A7os%20de%20Caldas%20-%20MG%2C%2037701-386%2C%20Brasil!5e0!3m2!1spt-BR!2sus!4v1675745686735!5m2!1spt-BR!2sus' width='400' height='300' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+            "category": [
+                "all"
+            ],
+            "city": "Poços de Caldas",
+            "placeName": "Farmácia",
+            "addressStreet": "Avenida João Pinheiro",
+            "addressNumber": "3",
+            "addressDistrict": "Centro",
+            "officehour": "24 Horas",
+            "searchTags": [
+                "medicamentos",
+                "remédio",
+                "genérico",
+                "suplemento",
+                "perfumaria",
+                "fralda",
+                "whey",
+                "creatina",
+                "dipirona",
+                "protetor solar",
+                "repelente"
+            ],
+            "highlighted": true
+        },
+        {
+            "id": "04",
+            "mapIframe" : "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d778.8961081682983!2d-46.601739564032556!3d-21.77735137412201!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c9db852a9975f7%3A0x7b54cb7c95b93a62!2sPartage%20Shopping%20Po%C3%A7os%20de%20Caldas!5e0!3m2!1spt-BR!2sus!4v1675745734725!5m2!1spt-BR!2sus' width='400' height='300' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+            "category": [
+                "all",
+                "food",
+                "drink",
+                "clothes",
+                "supermarket",
+                "auto-parts",
+                "pets",
+                "construction",
+                "toys"
+            ],
+            "city": "Poços de Caldas",
+            "placeName": "Super Loja",
+            "addressStreet": "Shopping Poços de Caldas",
+            "addressNumber": "2° Andar",
+            "addressDistrict": "Vale das Antas",
+            "officehour": "Seg-Dom - 09:00h - 22:00h",
+            "searchTags": [
+                "supermercado",
+                "auto peças",
+                "conveniência",
+                "vestuário",
+                "petshop",
+                "brinquedos",
+                "material de construção",
+                "alimentos",
+                "pneu",
+                "cerveja",
+                "camiseta",
+                "ração",
+                "boneca",
+                "cimento"
+            ],
+            "highlighted": true
+        }
+    ]
+}

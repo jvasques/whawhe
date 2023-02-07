@@ -1,10 +1,10 @@
 <div class="top-header">
     <div class="th-content">
-        <h1>SAIBA ONDE ENCONTRAR O QUE VOCÊ PROCURA</h1>
+        <marquee dicrection="left"><h1>SAIBA ONDE ENCONTRAR O QUE VOCÊ PROCURA</h1></marquee>
     </div>
 </div>
 <div class="middle-header">
-    <div class="logo">
+    <div class="logo" onclick="window.location.href = ('./');">
         <img src="./assets/logo.png" alt="Page Logo">
         <h2>WhaWhe</h2>
     </div>
@@ -17,7 +17,7 @@
     <div class="search">
         <input type="text" class="what" placeholder="O QUE PROCURA?" autofocus>
         <input type="text" class="where" placeholder="ONDE PROCURA (CIDADE)">
-        <button class="search-button"></button>
+        <button class="search-button" onclick="searchData();"></button>
     </div>
     <div class="categories">
         <ul>
@@ -33,4 +33,3 @@
         </ul>
     </div>
 </div>
-<script src="./src/js/script.js"></script>
